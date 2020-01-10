@@ -3,7 +3,7 @@ Neil Enriquez - Stunner Exam
 
 Notes: 
 
-Kindly edit this configs base on your credentials in local machine.
+Kindly edit this configs in .env file base on your credentials in local machine.
 
 DB_CONNECTION=mysql
 DB_HOST=77.77.77.2
